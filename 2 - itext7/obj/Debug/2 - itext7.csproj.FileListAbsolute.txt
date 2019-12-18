@@ -1,0 +1,36 @@
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\2 - itext7.exe.config
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\2 - itext7.exe
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\2 - itext7.pdb
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\BouncyCastle.Crypto.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\Common.Logging.Core.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\Common.Logging.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.barcodes.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.forms.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.io.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.kernel.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.layout.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.pdfa.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.sign.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.styledxmlparser.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.svg.dll
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\BouncyCastle.Crypto.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\Common.Logging.pdb
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\Common.Logging.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\Common.Logging.Core.pdb
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\Common.Logging.Core.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.barcodes.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.forms.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.io.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.kernel.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.layout.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.pdfa.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.sign.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.styledxmlparser.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\bin\Debug\itext.svg.xml
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\obj\Debug\2 - itext7.csprojAssemblyReference.cache
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\obj\Debug\_2___itext7.itext7.resources
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\obj\Debug\_2___itext7.Properties.Resources.resources
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\obj\Debug\2 - itext7.csproj.GenerateResource.cache
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\obj\Debug\2 - itext7.csproj.CopyComplete
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\obj\Debug\2 - itext7.exe
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\Packages\2 - itext7\obj\Debug\2 - itext7.pdb
